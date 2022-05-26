@@ -12,7 +12,7 @@ Buat file baru dengan nama **header.php**
 
 Ini kodenya
 
-![Gambar 1](../screenshot/ss1a.png)
+![Gambar 1](lab9_php_modular/screenshot/ss1a.png)
 
 Dan buat file baru dengan nama **footer.php**
 

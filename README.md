@@ -6,19 +6,19 @@ Kelas : TI.20.A.2
 
 # Lab9Web
 
-Buat file baru dengan nama header.php
+Buat file baru dengan nama **header.php**
 
 Ini kodenya
 
 ![Gambar 1](screenshot/ss1a.png)
 
-Dan buat file baru dengan nama footer.php
+Dan buat file baru dengan nama **footer.php**
 
 Ini kodenya
 
 ![Gambar 2](screenshot/ss1b.png)
 
-Buat file baru dengan nama home.php
+Buat file baru dengan nama **home.php**
 
 Ini kodenya
 
@@ -28,7 +28,7 @@ Ini tampilannya di browser
 
 ![Gambar 4](screenshot/ss1f.png)
 
-Buat file baru dengan nama about.php
+Buat file baru dengan nama **about.php**
 
 Ini kodenya
 
